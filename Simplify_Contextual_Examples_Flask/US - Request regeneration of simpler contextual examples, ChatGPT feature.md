@@ -65,20 +65,3 @@ curl -X POST -d "input=This is a sample sentence.&word=sample" http://<your_ip_a
 
 The server will use the OpenAI API to generate a new sentence based on the input and word. The response will be a JSON object containing the new sentence.
 
-
-## Contributing
-
-
-## Authors and acknowledgment
-Laura Bedoyan
-Rachel Gilyard
-Rinali Kapadia 
-Sushmitha K
-Manpreet Dhindsa
-Christian-John Vega 
-Kranthi Setty
-Comp 680 and 583 students
-
-## License
-Copyright (C) 2023  California State University Northridge COMP 680 Placeholdr 1 group
-
